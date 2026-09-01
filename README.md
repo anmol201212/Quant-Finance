@@ -15,6 +15,7 @@ Don't try to finish every resource. Pick **one good resource per topic and start
 
 * **Topics in Mathematics with Applications in Finance** — MIT
   https://ocw.mit.edu/courses/mathematics/18-s096-topics-in-mathematics-with-applications-in-finance-fall-2013/
+  https://ocw.mit.edu/courses/18-642-topics-in-mathematics-with-applications-in-finance-fall-2024/
 
 * **Numerical Linear Algebra for Coders** — fast.ai
   https://www.fast.ai/
