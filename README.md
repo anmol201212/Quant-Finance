@@ -164,12 +164,7 @@ Build:
 
 ---
 
-## ⭐ Full Original Resource Collection
-
 For the larger collection that inspired this repository:
-
-**PyPatel — Quant-Finance-Resources**
-
 https://github.com/PyPatel/Quant-Finance-Resources
 
 ---
